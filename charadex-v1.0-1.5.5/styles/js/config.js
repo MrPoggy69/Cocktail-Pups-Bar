@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Cocktail-Pups-Bar",
-  url: "https://mrpoggy69.github.io/Cocktail-Pups-Bar/",
+  url: "online",
   description: `A species born from celebration, mishap, and transformation, Cocktail-Pups live in a world where chaos and joy go hand in hand.`
 }
 
